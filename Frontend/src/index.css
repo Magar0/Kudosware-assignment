@@ -20,7 +20,7 @@ code {
   height: 100vh;
 }
 .full-w {
-  height: 100vw;
+  width: 100vw;
 }
 
 @keyframes spin {
